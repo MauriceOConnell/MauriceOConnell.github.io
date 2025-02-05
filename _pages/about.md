@@ -1,11 +1,24 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Dr Maurice O’Connell is a Research Associate in Statistics, Causal Inference and Causal Machine Learning at the University of Manchester.
+
+Maurice is working on the NIHR funded DynAIRx project with Dr Matthew Sperrin and the rest of DynAIRx team. The DynAIRx project aims to develop statistical tools under a causal inference framework that support GPs & pharmacists to find patients living with multimorbidity  and polypharmacy who might be offered a better combination of medicines.
+
+Maurice attained a PhD in Health Economics and Statistics at the Graduate Entry Medical School, University of Limerick. During his PhD he worked with randomised controlled trials developing statistical and health economic methodology for the evaluation of health interventions as part of the first Health Research Board (HRB) Research Leaders programme in Ireland. 
+
+After his PhD, Maurice worked as a postdoctoral researcher in biostatistics at the HRB Clinical Research Facility, School of Medicine, University of Galway, which was part of a HRB Emerging Investigator award programme. Maurice and collaborators developed statistical methods and R packages (e.g. graphPAF) for ‘population attributable fractions’, a causal metric that refers to the level of disease in a population that would be avoided in the absence of a harmful exposure e.g. smoking.
+
+Maurice has held lecturing and research positions at the University of Limerick and Munster Technological University. Prior to his PhD, Dr O’Connell trained and worked as an actuary. Maurice also has a BSc degree in Financial and Actuarial Mathematics from Dublin City University.
+
+His research interests include causal inference, medical statistics, causal machine learning, counterfactual prediction, statistical methodology in medicine and epidemiology, decision theory, statistical and health economic analysis of randomised controlled trials, observational studies and electronic health records. 
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
