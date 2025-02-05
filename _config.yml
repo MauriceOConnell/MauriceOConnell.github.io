@@ -22,7 +22,7 @@ repository               : "MauriceOConnell/MauriceOConnell.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "MauriceOConnellJune2024.png"
+  avatar           : "profile.png"
   name             : "Maurice O'Connell"
   pronouns         : # example: "she/her"  
   bio              : "Research Associate in Statistics & Causal Inference & Causal Machine Learning"
