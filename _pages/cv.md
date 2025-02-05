@@ -27,7 +27,11 @@ Work experience
   * Graduate Entry Medical School, University of Limerick
   * Supervisor: Prof John F Forbes, Prof Cathal Walsh, Dr Sara Hayes
   
-* 2003 - 2014: update.....
+* 2012 - 2014: Lecturer, Researcher, Teaching Assistant, University of Limerick
+  
+* 2008 - 2012: Mathematics teacher
+  
+* 2003 - 2008: Actuary
   
 Skills
 ======
