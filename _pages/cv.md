@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Health Economics and Statistics, Graduate Entry Medical School, University of Limerick, 2019
+* Postgraduate Diploma in Education. University College Cork, 2009
+* BSc. in Financial & Actuarial Mathematics, Dublin City University, 2004
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - Present: Research Associate in Statistics, Causal Inferene & Causal Machine Learning
+  * The University of Manchester
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 2022: Postdoctoral Research in Biostatistics
+  * HRB Clinical Research Facility Galway, Medical School, University of Galway
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014 - 2019: PhD researcher
+  * Graduate Entry Medical School, University of Limerick
+  * Supervisor: Prof John F Forbes, Prof Cathal Walsh, Dr Sara Hayes
+  
+* 2003 - 2014: update.....
   
 Skills
 ======
