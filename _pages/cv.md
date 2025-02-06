@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* PhD in Health Economics and Statistics, Graduate Entry Medical School, University of Limerick, 2019
-* Postgraduate Diploma in Education. University College Cork, 2009
-* BSc. in Financial & Actuarial Mathematics, Dublin City University, 2004
+* PhD in Health Economics and Statistics, Graduate Entry Medical School, University of Limerick, 2014-2019
+* Postgraduate Diploma in Education. University College Cork, 2008-2009
+* Institute & Faculty of Actuaries Examinations in the UK & Ireland, 2004-2008
+* BSc. in Financial & Actuarial Mathematics, Dublin City University, 2000-2004
 
 Work experience
 ======
