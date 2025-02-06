@@ -1,6 +1,6 @@
 ---
-title: "An overview of causal machine learning methodology in Electronic Health Records (EHR):
-Looking into deprescribing, continuing & initiating medications in individuals with polypharmacy and multimorbidity
+title: "An overview of causal machine learning methodology in Electronic Health Records (EHR): Looking into deprescribing, continuing & initiating medications in individuals with polypharmacy and multimorbidity"
+collection: talks
 type: "Talk"
 permalink: /talks/025-03-19-talk-Alan-Turing
 venue: "Alan Turing Institute online"
